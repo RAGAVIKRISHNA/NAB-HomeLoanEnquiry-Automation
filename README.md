@@ -13,7 +13,7 @@ https://youtu.be/ViCULIUF3fU
 - Download and Install IDE of your choice
 - Browser driver - Chrome driver exe : https://chromedriver.chromium.org/downloads
 (make sure you have your desired browser driver and class path is your user dir folder where your POM file is.
-- Eclipse Plugins for Maven & Cucumber
+- IDE Plugins for Maven & Cucumber
 
 # **Features**
 
