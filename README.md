@@ -1,3 +1,11 @@
+# **Introduction**
+
+Cucumber BDD framework to test the NAB home loan enquiry.The framework is designed with data driven to source different sets of test data and Cucumber BDD for Reporting.
+
+# **Demo**
+
+https://youtu.be/ViCULIUF3fU
+
 # **Requirements**
 
 - Download and Install Java : https://www.java.com/download/ie_manual.jsp
@@ -22,5 +30,3 @@
 
 # **Execution**
 Right click on the TestRunner.java under src\test\java\Runner package and run as JUnit Test
-
-
