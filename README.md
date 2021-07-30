@@ -32,7 +32,7 @@ https://youtu.be/ViCULIUF3fU
 
 1. Maven build
 
- mvn clean install will execute tests by default and cucumber BDD report can be found under "projectdir\report\index.html"
+ "mvn clean install" or "mvn clean install -U" will execute tests by default and cucumber BDD report can be found under "projectdir\report\index.html"
  
 2. Using IDE
 
